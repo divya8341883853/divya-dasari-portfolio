@@ -254,7 +254,7 @@
       }
       else {
         $.ajax({
-          url: "https://formspree.io/f/moqopdyb", 
+          url: "https://formspree.io/", 
           method: "POST",
           data: {
             name: name,
